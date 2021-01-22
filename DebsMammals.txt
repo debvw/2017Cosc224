@@ -5,17 +5,17 @@ Mammals Text
 3.
 4.
 Reptiles
-1
+1Debs fav reptile is komodo dragon
 2
 3
 4
 Fish
-1
+1 Debs fav fish is salmon
 2
 3
 4
 Birds
-1
+1 Debs fav bird is peacock
 2
 3
 4
